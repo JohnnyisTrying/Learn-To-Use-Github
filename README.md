@@ -43,7 +43,8 @@
 | Deepanshu Mittal                                       | Python                   |            
 | Banshaj Paudel                      | Cybersecurity, IoT, Programming, Automation |
 | Bibek                                                  | Web Dev                  |
-| _Your Name_                                            | _Intrests_               |
+| Johnnyistrying                                         |CyberSecurity, Forensics  |
+| _Your Name Here_ 																																											| _What do you love?_ |
  
 
 ### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
